@@ -138,7 +138,8 @@ Yang menjadikan sebuah model signifikan adalah selisih antara akurasi training d
 
 
 
-
+reference:
+- https://arxiv.org/pdf/1106.0257.pdf
 
 
 
